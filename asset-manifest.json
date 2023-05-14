@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeVI/static/css/main.336c2555.css",
+    "main.js": "/CodeVI/static/js/main.0e16b411.js",
+    "index.html": "/CodeVI/index.html",
+    "main.336c2555.css.map": "/CodeVI/static/css/main.336c2555.css.map",
+    "main.0e16b411.js.map": "/CodeVI/static/js/main.0e16b411.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.336c2555.css",
+    "static/js/main.0e16b411.js"
+  ]
+}
