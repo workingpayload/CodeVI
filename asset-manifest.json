@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CodeVI/static/css/main.336c2555.css",
+    "main.css": "/CodeVI/static/css/main.a5f4436f.css",
     "main.js": "/CodeVI/static/js/main.0e16b411.js",
     "index.html": "/CodeVI/index.html",
-    "main.336c2555.css.map": "/CodeVI/static/css/main.336c2555.css.map",
+    "main.a5f4436f.css.map": "/CodeVI/static/css/main.a5f4436f.css.map",
     "main.0e16b411.js.map": "/CodeVI/static/js/main.0e16b411.js.map"
   },
   "entrypoints": [
-    "static/css/main.336c2555.css",
+    "static/css/main.a5f4436f.css",
     "static/js/main.0e16b411.js"
   ]
 }
