@@ -21,7 +21,7 @@ body{
 }
 
 .CodeMirror{
- height: 100% !important;
+ overflow: hidden !important;
 }
 
 .editor-title{
@@ -56,4 +56,10 @@ body{
   border: none;
   color: white;
   cursor: pointer;
+}
+
+.editor-image{
+  width: 2rem;
+  height: 2rem;
+  background: transparent;
 }
