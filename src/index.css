@@ -3,12 +3,13 @@ body{
 }
 
 .top-pane{
-  background-color: violet;
+  background-color: rgb(31, 29, 29);
 }
 
 .pane{
   display: flex;
   height: 50vh;
+  border: .5rem solid rgb(31, 29, 29);
 }
 
 .editor-container{
@@ -17,7 +18,7 @@ body{
   display: flex;
   flex-direction: column;
   padding: .5rem;
-  background-color: violet;
+  background-color: rgb(31, 29, 29);
 }
 
 .CodeMirror{
@@ -27,7 +28,7 @@ body{
 .editor-title{
   display: flex;
   justify-content: space-between;
-  background-color: lightblue;
+  background-color: rgb(82, 78, 78);
   color: black;
   padding-left: .5rem;
   padding-right: .5rem;
@@ -54,12 +55,6 @@ body{
   margin-left: .5rem;
   background: none;
   border: none;
-  color: white;
+  color: rgb(36, 30, 30);
   cursor: pointer;
-}
-
-.editor-image{
-  width: 2rem;
-  height: 2rem;
-  background: transparent;
 }
